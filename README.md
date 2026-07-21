@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1E5F4E,100:8B5CF6&text=Fatmanur%20Akay&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20Intelligent%20Software&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1E5F4E,100:8B5CF6&text=Fatma%20Nur%20Akay&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20Intelligent%20Software&descAlignY=60"/>
 
 <br>
 
