@@ -1,72 +1,109 @@
-<h1 align="center">Hi 👋, I'm Fatmanur Akay</h1>
-<h3 align="center">
-Computer Science Student | AI & NLP Enthusiast
-</h3>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=20,24,30,26&text=Fatmanur%20Akay&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20Intelligent%20Software&descAlignY=60"/>
 
 <br>
 
-## 👩‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Natural+Language+Processing;Computer+Vision;Backend+Development"/>
 
-- 🎓 Computer Science student at Çukurova University
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Natural Language Processing
-- 🌱 Currently learning LLMs, Backend Development and Computer Vision
-- 💻 Working with Python, FastAPI, React and Docker
+</div>
 
+---
 
-<br>
+# 👋 About Me
 
-## 🚀 Tech Stack
+I'm **Fatmanur Akay**, a Computer Science student passionate about building intelligent software solutions.
+
+I enjoy combining **Artificial Intelligence** with modern software engineering to develop practical, scalable, and impactful applications.
+
+---
+
+## Interests
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💬 Natural Language Processing
+- 👁️ Computer Vision
+- ⚙️ Backend Development
+
+---
+
+#  Tech Stack
 
 ### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,html,css" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript,html,css"/>
 </p>
 
 ### Frameworks & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,react,docker,git,github,linux,vscode" />
-</p>
-
-### AI / ML
-- PyTorch
-- TensorFlow
-- Scikit-Learn
-- Hugging Face Transformers
-- ONNX
-- OpenCV
-
-<br>
-
-## 📌 Featured Projects
-
-### 🧠 [NLP Work Order Classification]
-Multi-label text classification system for industrial work orders using BERT-based transformer models.
-**Tech:** Python • PyTorch • Transformers • FastAPI
-
-### 🔍 [Steel Surface Defect Detection]
-Image classification model for steel surface defect detection using deep learning.
-**Tech:** PyTorch • ResNet18 • ONNX • JavaScript
-
-### 🌐 [Personal Portfolio Website](https://github.com/NurAkay/personal-website)
-A responsive portfolio website developed with HTML, CSS and JavaScript.
-
-<br>
-
-## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NurAkay&show_icons=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurAkay&layout=compact&theme=github_dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,react,docker,git,github,linux,vscode"/>
 </p>
 
-<br>
+### AI & Machine Learning
 
-## 🎯 Currently Working On
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
 
-- Building NLP-based classification projects
-- Exploring LLM applications and backend architectures
-- Strengthening my computer vision skills
+- Hugging Face Transformers
+- Scikit-Learn
+- OpenCV
+- ONNX
 
-<br>
+---
 
-⭐ Thanks for visiting my profile!
+# 🚀 Featured Projects
+
+### 🧠 Industrial Work Order Classification
+
+Multi-label NLP system using Transformer-based architectures.
+
+**Python • PyTorch • Transformers • FastAPI**
+
+---
+
+### 🔍 Steel Surface Defect Detection
+
+Deep learning model for automatic steel surface defect classification.
+
+**PyTorch • ResNet18 • ONNX**
+
+---
+
+### 🌐 Personal Portfolio
+
+Responsive portfolio website showcasing my projects and technical journey.
+
+**HTML • CSS • JavaScript**
+
+---
+
+# 👩🏼‍💻 Currently Learning
+
+- Large Language Models (LLMs)
+- AI Deployment
+- Docker
+- Backend Architecture
+- Advanced Computer Vision
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/fatmanurakay">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Keep Learning • Keep Building ✨
+
+</div>
