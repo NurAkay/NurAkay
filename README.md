@@ -12,7 +12,7 @@
 
 # 👋 About Me
 
-I'm **Fatmanur Akay**, a Computer Science student passionate about building intelligent software solutions.
+I'm **Fatma Nur Akay**, a Computer Science student passionate about building intelligent software solutions.
 
 I enjoy combining **Artificial Intelligence** with modern software engineering to develop practical, scalable, and impactful applications.
 
