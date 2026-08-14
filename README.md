@@ -56,6 +56,17 @@ I enjoy combining **Artificial Intelligence** with modern software engineering t
 
 # 🚀 Featured Projects
 
+### 🏭 Steel Slab Inspection
+
+Computer vision system developed to assist field personnel and speed up visual inspection of steel slabs in an industrial production environment.
+
+The system detects yellow markings and identification labels using YOLO, with OpenCV and OCR used for image and text analysis. The model was trained and fine-tuned on real industrial images and converted from PyTorch to ONNX for faster, lightweight inference.
+
+The application runs without a backend, performing model inference directly on the frontend.
+**Python • YOLO • OpenCV • OCR • ONNX • JavaScript
+
+---
+
 ### 🧠 Industrial Work Order Classification
 
 Multi-label NLP system using Transformer-based architectures.
