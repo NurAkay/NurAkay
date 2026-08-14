@@ -44,7 +44,7 @@ The application runs without a backend, performing model inference directly on t
 ### 🛠️ Automated Work Order Routing & Department Assignment System
 
 * **Django Backend Workflow:** Developed a Django backend to manage breakdown reports and automate work order routing to maintenance units.
-* **Transformer Models & Data Balancing:** Fine-tuned multiple Transformer models (**BERTurk**, **ConvBERT**, **ELECTRA**) and implemented data balancing techniques (*Class Weighting*) for multi-label classification.
+* **Transformer Models & Data Balancing:** Fine-tuned multiple Transformer models (**BERTurk**, **ConvBERT**, **ELECTRA**) and implemented data balancing techniques for multi-label classification.
 * **Smart Caching & Local LLMs:** Built a Cosine Similarity semantic cache (70% compute savings) and benchmarked privacy-focused local LLMs (**Qwen 2.5**, **IBM Granite**) using Ollama.
 
 **Django • Python • PyTorch • Transformers (BERTurk, ConvBERT, ELECTRA) • Ollama**
