@@ -37,7 +37,7 @@ The system detects yellow markings and identification labels using YOLO, with Op
 
 The application runs without a backend, performing model inference directly on the frontend.
 
-**Python • PyTorch • YOLO • OpenCV • OCR • ONNX • JavaScript • HTML5/CSS3
+**Python • PyTorch • YOLO • OpenCV • OCR • ONNX • JavaScript • HTML5/CSS3**
 
 ---
 
@@ -47,15 +47,14 @@ The application runs without a backend, performing model inference directly on t
 * **Transformer Models & Data Balancing:** Fine-tuned multiple Transformer models (**BERTurk**, **ConvBERT**, **ELECTRA**) and implemented data balancing techniques (*Class Weighting*) for multi-label classification.
 * **Smart Caching & Local LLMs:** Built a Cosine Similarity semantic cache (70% compute savings) and benchmarked privacy-focused local LLMs (**Qwen 2.5**, **IBM Granite**) using Ollama.
 
-**Django • Python • PyTorch • Transformers (BERTurk, ConvBERT, ELECTRA) • Ollama
+**Django • Python • PyTorch • Transformers (BERTurk, ConvBERT, ELECTRA) • Ollama**
 
 ---
 
-### 🔍 Steel Surface Defect Detection
+🔍 Steel Surface Defect Detection]
+An industrial Computer Vision project for real-time steel surface defect classification (6 classes) trained on the **NEU-DET** dataset. Fine-tuned a **PyTorch (ResNet-18)** model using stratified dataset splitting and automated learning rate schedules. Deployed as a zero-backend web application via **ONNX Runtime WebAssembly**, enabling users to perform real-time surface quality inspection directly in their browser without sending image data to external servers.
 
-A serverless, client-side web application for real-time steel surface defect detection (6 classes) trained on the **NEU-DET** dataset. Performs AI inference directly inside the browser using **ONNX Runtime WebAssembly** with zero backend infrastructure.  
-
-**Python • PyTorch • ONNX • WebAssembly • JavaScript • HTML5/CSS3
+**Python • PyTorch • ONNX • WebAssembly • JavaScript • HTML5/CSS3**
 
 ---
 
