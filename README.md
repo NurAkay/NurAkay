@@ -63,23 +63,24 @@ Computer vision system developed to assist field personnel and speed up visual i
 The system detects yellow markings and identification labels using YOLO, with OpenCV and OCR used for image and text analysis. The model was trained and fine-tuned on real industrial images and converted from PyTorch to ONNX for faster, lightweight inference.
 
 The application runs without a backend, performing model inference directly on the frontend.
-**Python • YOLO • OpenCV • OCR • ONNX • JavaScript
+**Python • PyTorch • YOLO • OpenCV • OCR • ONNX • JavaScript • HTML5/CSS3
 
 ---
 
-### 🧠 Industrial Work Order Classification
+### 🛠️ Automated Work Order Routing & Department Assignment System
 
-Multi-label NLP system using Transformer-based architectures.
+* **Django Backend Workflow:** Developed a Django backend to manage breakdown reports and automate work order routing to maintenance units.
+* **Transformer Models & Data Balancing:** Fine-tuned multiple Transformer models (**BERTurk**, **ConvBERT**, **ELECTRA**) and implemented data balancing techniques (*Class Weighting*) for multi-label classification.
+* **Smart Caching & Local LLMs:** Built a Cosine Similarity semantic cache (70% compute savings) and benchmarked privacy-focused local LLMs (**Qwen 2.5**, **IBM Granite**) using Ollama.
 
-**Python • PyTorch • Transformers • FastAPI**
+**Django • Python • PyTorch • Transformers (BERTurk, ConvBERT, ELECTRA) • Ollama
 
 ---
 
 ### 🔍 Steel Surface Defect Detection
 
-Deep learning model for automatic steel surface defect classification.
-
-**PyTorch • ResNet18 • ONNX**
+A serverless, client-side web application for real-time steel surface defect detection (6 classes) trained on the **NEU-DET** dataset. Performs AI inference directly inside the browser using **ONNX Runtime WebAssembly** with zero backend infrastructure.  
+**Python • PyTorch • ONNX • WebAssembly • JavaScript • HTML5/CSS3
 
 ---
 
