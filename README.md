@@ -27,41 +27,6 @@ I enjoy combining **Artificial Intelligence** with modern software engineering t
 
 ---
 
-# Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript,html,css"/>
-</p>
-
-### Frameworks & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,react,docker,git,github,linux,vscode"/>
-</p>
-
-### AI & Machine Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-</p>
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- YOLO / Ultralytics
-- Hugging Face Transformers
-- Scikit-Learn
-- OpenCV
-- EasyOCR
-- Tesseract OCR
-- ONNX
-- NumPy
-- Pandas
----
-
 # 🚀 Featured Projects
 
 ### 🏭 Steel Slab Inspection
@@ -100,6 +65,41 @@ Responsive portfolio website showcasing my projects and technical journey.
 
 **HTML • CSS • JavaScript**
 
+---
+
+# Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript,html,css"/>
+</p>
+
+### Frameworks & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,react,docker,git,github,linux,vscode"/>
+</p>
+
+### AI & Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+</p>
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- YOLO / Ultralytics
+- Hugging Face Transformers
+- Scikit-Learn
+- OpenCV
+- EasyOCR
+- Tesseract OCR
+- ONNX
+- NumPy
+- Pandas
 ---
 
 # 👩🏼‍💻 Currently Learning
