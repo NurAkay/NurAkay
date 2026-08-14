@@ -71,6 +71,7 @@ Computer vision system developed to assist field personnel and speed up visual i
 The system detects yellow markings and identification labels using YOLO, with OpenCV and OCR used for image and text analysis. The model was trained and fine-tuned on real industrial images and converted from PyTorch to ONNX for faster, lightweight inference.
 
 The application runs without a backend, performing model inference directly on the frontend.
+
 **Python • PyTorch • YOLO • OpenCV • OCR • ONNX • JavaScript • HTML5/CSS3
 
 ---
