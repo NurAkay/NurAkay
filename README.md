@@ -27,7 +27,7 @@ I enjoy combining **Artificial Intelligence** with modern software engineering t
 
 ---
 
-#  Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -44,14 +44,22 @@ I enjoy combining **Artificial Intelligence** with modern software engineering t
 ### AI & Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
 </p>
 
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- YOLO / Ultralytics
 - Hugging Face Transformers
 - Scikit-Learn
 - OpenCV
+- EasyOCR
+- Tesseract OCR
 - ONNX
-
+- NumPy
+- Pandas
 ---
 
 # 🚀 Featured Projects
@@ -80,6 +88,7 @@ The application runs without a backend, performing model inference directly on t
 ### 🔍 Steel Surface Defect Detection
 
 A serverless, client-side web application for real-time steel surface defect detection (6 classes) trained on the **NEU-DET** dataset. Performs AI inference directly inside the browser using **ONNX Runtime WebAssembly** with zero backend infrastructure.  
+
 **Python • PyTorch • ONNX • WebAssembly • JavaScript • HTML5/CSS3
 
 ---
