@@ -52,7 +52,11 @@ The application runs without a backend, performing model inference directly on t
 ---
 
 🔍 Steel Surface Defect Detection]
-An industrial Computer Vision project for real-time steel surface defect classification (6 classes) trained on the **NEU-DET** dataset. Fine-tuned a **PyTorch (ResNet-18)** model using stratified dataset splitting and automated learning rate schedules. Deployed as a zero-backend web application via **ONNX Runtime WebAssembly**, enabling users to perform real-time surface quality inspection directly in their browser without sending image data to external servers.
+An industrial Computer Vision project for real-time steel surface defect classification (6 classes) trained on the **NEU-DET** dataset. 
+
+Fine-tuned a **PyTorch (ResNet-18)** model using stratified dataset splitting and automated learning rate schedules. 
+
+Deployed as a zero-backend web application via **ONNX Runtime WebAssembly**, enabling users to perform real-time surface quality inspection directly in their browser without sending image data to external servers.
 
 **Python • PyTorch • ONNX • WebAssembly • JavaScript • HTML5/CSS3**
 
