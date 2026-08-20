@@ -51,7 +51,7 @@ The application runs without a backend, performing model inference directly on t
 
 ---
 
-🔍 Steel Surface Defect Detection
+### 🔍 Steel Surface Defect Detection
 
 An industrial Computer Vision project for real-time steel surface defect classification (6 classes) trained on the **NEU-DET** dataset. 
 
